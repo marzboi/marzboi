@@ -5,7 +5,7 @@
 <a href="https://discord.gg/marzboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marzboi" height="30" width="40" /></a>
 </p>
 
-<p>I'm a passionate and dedicated software developer with a knack for learning and implementing new technologies. I have a strong background in JavaScript, TypeScript, Node.js, Git, and GitHub. I love creating intuitive and dynamic user interfaces using Figma, CSS, and SCSS. </p>
+<p>I like codes and mods. that the best description about myself. </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
